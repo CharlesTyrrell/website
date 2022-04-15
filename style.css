@@ -1,9 +1,9 @@
 body{
     
-    margin: 0;
+    margin: 60;
     padding: 0;
-    background: url('picture from trip.jpg') no-repeat;
-
+    background-image: url('photos/picture\ from\ trip.jpg') no-repeat;
+    margin-bottom: 85px;
 
     background-size: cover;
   }
@@ -11,6 +11,7 @@ body{
     width: 450px;
     background: rgba(255, 255, 255, 0.6);
     padding: px;
+    padding-bottom: 25px;
     text-align: center;
     margin: auto;
     margin-top: 5%;
@@ -58,3 +59,12 @@ body{
   .box a:hover{
     color: #b9b9b9;
   }
+  .box iframe{
+      padding-bottom: 20px;
+      height: 120px;
+      
+  }
+  .box iframe div{
+     color: black;
+    
+}
