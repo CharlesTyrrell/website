@@ -1,17 +1,18 @@
 body{
+    
     margin: 0;
     padding: 0;
-    background: url(bg.jpg) no-repeat;
+    background: url('picture from trip.jpg') no-repeat;
     background-size: cover;
   }
   .box{
     width: 450px;
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(255, 255, 255, 0.6);
     padding: 40px;
     text-align: center;
     margin: auto;
     margin-top: 5%;
-    color: white;
+    color: black;
     font-family: 'Century Gothic',sans-serif;
   }
   .box-img{
@@ -39,6 +40,8 @@ body{
   .box li{
     display: inline-block;
     margin: 6px;
+    width: 20%;
+    padding-top: 2.5%;
     list-style: none;
   }
   .box li a{
