@@ -10,8 +10,8 @@ body{
   .box{
     width: 450px;
     background: rgba(255, 255, 255, 0.6);
-    padding: px;
     padding-bottom: 25px;
+    margin-bottom: 10%;
     text-align: center;
     margin: auto;
     margin-top: 5%;
